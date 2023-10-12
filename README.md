@@ -5,9 +5,5 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="30px"/>
-  </h1>
+  <img src="https://komarev.com/ghpvc/?username=Yurchenkov&style=flat-square&color=blue" alt=""/>
 </div>
